@@ -40,3 +40,19 @@ Logistic Regression successfully learns patterns in sonar signals.
 The model achieved good accuracy, indicating that the features contain useful information.
 
 The system can be used as a basic mine detection support tool.
+
+Conclusion
+
+This project demonstrates how machine learning can be applied to classify underwater objects using sonar signals.
+
+Key outcomes:
+
+Successfully implemented Logistic Regression.
+
+Built a Rock vs Mine prediction system.
+
+Achieved good prediction accuracy.
+
+Created a system capable of predicting new sonar observations.
+
+This shows the practical application of data science techniques such as preprocessing, model training, evaluation, and prediction.
