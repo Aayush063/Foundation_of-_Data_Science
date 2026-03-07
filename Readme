@@ -1,0 +1,42 @@
+My project is SONAR DETECTION. 
+Description of the project- My project includes the prediction of rock or mine present in the sea by submarines. it is very useful for the army espwcially in military wars . The prediction is made by the using given data file sonar data.csv.
+Objective
+
+The objective of this project is to predict whether an object detected by sonar signals is a Rock or a Mine using machine learning.
+
+Problem Type
+
+This is a binary classification problem because the output has two possible classes:
+
+M → Mine
+
+R → Rock
+I have used logistic regression because 
+It is suitable for classification problems.
+
+It works well when the output has two classes.
+
+It is simple and interpretable.
+
+It works effectively for small structured datasets like the Sonar dataset.
+
+Thus, Logistic Regression is an appropriate model for predicting Rock vs Mine.
+
+Dataset Description
+
+Total samples: 208
+
+Total features: 60
+
+Target column: Column 60
+
+ Interpretation & Insights
+Key Insights
+
+The sonar dataset can be used to distinguish rocks from mines using signal reflections.
+
+Logistic Regression successfully learns patterns in sonar signals.
+
+The model achieved good accuracy, indicating that the features contain useful information.
+
+The system can be used as a basic mine detection support tool.
